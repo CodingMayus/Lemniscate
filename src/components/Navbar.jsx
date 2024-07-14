@@ -7,7 +7,7 @@ export default function NavBar() {
   <nav>
     <div className="navcontainer">
      <div className= "containtitle">
-     <Link to="/" className = "link"> <h3>Notetaker</h3></Link>
+     <Link to="/" className = "link"> <h3>Lemniscate</h3></Link>
      </div>
      <div className= "linkcontainer">
      <Link to="/about" className = "link">About</Link>

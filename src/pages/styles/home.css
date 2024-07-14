@@ -1,7 +1,8 @@
 
 .background{
     /* background-color: blue; */
-    height:135vh;
+        height:135vh;
+        background-image: url("../../R.gif");
 
 }
 .body{
@@ -9,6 +10,10 @@
 }
 .problem{
     height:50vh;
+    background-image: url("../../7GW7.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+
 }
 .triadcontain{
     display: flex;
@@ -41,6 +46,7 @@
 
 h1{
     text-align:center;
+    font-size:5vh;
 }
 p{
     text-align: center;

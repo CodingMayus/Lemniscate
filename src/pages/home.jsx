@@ -49,7 +49,7 @@ export default function Home(){
             <Steps step = "2. Engagment" description ="Engage yourself with sections available for questions, summaries, and general tips to help you to study!"/>
             </div>
             <div className = 'section'>
-            <Steps step = "3. Collaboration" description = " 2 Brains, 3 Brains, 4... are all better than 1.  Get your teacher, your close friends, to easily check over your notes with just the click of a link !"/>
+            <Steps step = "3. Collaboration" description = " 2 Brains, 3 Brains, infinite... are all better than 1.  Get your teacher, your close friends, to easily check over your notes with just the click of a link !"/>
                 </div>
             </div>
       

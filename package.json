@@ -2,7 +2,7 @@
   "name": "notetaker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Licheng-Zheng.github.io/note-taker",
+  "homepage": "https://codingmayus.github.io/lemniscate",
   "dependencies": {
     "cra-template": "1.2.0",
     "firebase": "^10.12.3",
