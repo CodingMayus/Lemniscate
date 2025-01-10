@@ -20,3 +20,4 @@ There is currently only one template:
 3. User Authentication System, adding a quick-way to access all your previous notes.
 4. Add Mark-up to the notes to make them prettier.
 5. Export the notes somehow.
+6. Changing the Database since the 70k api calls for firestore is bad.
